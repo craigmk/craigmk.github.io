@@ -1,5 +1,11 @@
+---
 name: 'sc'
 theme: minima
-site.description: "craig statistical consultant"
 description: "craig statistical consultant"
+math_engine: mathjax
+---
 
+---
+layout: post
+title: no1
+---
