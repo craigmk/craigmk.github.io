@@ -1,7 +1,8 @@
-<script type="text/javascript" charset="utf-8" 
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
-https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
-
+---
+layout: page
+title: home
+order: 1
+---
 # statistical consulting
 1. supporting local business
 2. *x* **y**
