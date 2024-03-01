@@ -1,6 +1,6 @@
 ---
-name: 'sc'
+name: sc
 theme: minima
-description: "craig statistical consultant"
+site.description: 'craig statistical consultant'
 math_engine: mathjax
 ---
