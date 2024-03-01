@@ -1,2 +1,5 @@
-name: sc
+name: 'sc'
 theme: minima
+site.description: "craig statistical consultant"
+description: "craig statistical consultant"
+
