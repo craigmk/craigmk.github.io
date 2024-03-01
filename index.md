@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: home
 order: 1
 ---
 # statistical consulting
