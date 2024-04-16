@@ -3,4 +3,5 @@ name: sc
 theme: minima
 site.description: 'craig statistical consultant'
 math_engine: mathjax
+excerpt_separator: <!--end-->
 ---
