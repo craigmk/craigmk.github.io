@@ -1,5 +1,5 @@
 ---
-layout: page
-title: home
+layout: home
+list_title: statistical errata posts
 order: 1
 ---
