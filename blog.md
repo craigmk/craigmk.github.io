@@ -1,5 +1,5 @@
 ---
 layout: page
-title: statistical errata
+title: disproportionate
 order: 3
 ---
